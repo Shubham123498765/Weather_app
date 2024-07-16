@@ -1,4 +1,4 @@
-# Weather App
+# Sky Cast
 
 This is a simple Flutter-based Weather App that provides current weather information and a 5-hour forecast for a specified location. The app fetches weather data from the OpenWeather API and displays it in a user-friendly interface.
 
