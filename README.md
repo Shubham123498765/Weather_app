@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple steps.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/weather_app.git
+   git clone https://github.com/shubham123498765/weather_app.git
    cd weather_app
 
 2. Install Flutter dependencies:
